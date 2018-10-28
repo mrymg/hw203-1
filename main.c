@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, Turkeyu\n");
+    printf("Selam, Lordum\a");
     return 0;
 }
