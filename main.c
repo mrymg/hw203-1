@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Selam, Lordum\a");
-    return 0;
+    double am = 3.12;
+    printf("variable: %d", am);
 }
